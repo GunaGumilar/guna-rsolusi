@@ -1,3 +1,4 @@
-Guna Resolusi
+GIT
+Guna Resolusi.
 - Membuat website
 - lengkap dengan front, back, dan data base
